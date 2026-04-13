@@ -1,0 +1,30 @@
+# Agent instructions (auto-generated)
+.agent/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Certificates / private keys — never commit these
+certs/
+
+# LS-DYNA generated output files
+*.k
+d3plot*
+binout*
+glstat
+nodout
+elout
+matsum
+rcforc
+sleout
+jntforc
+messag
+status.out
+AdaptedMesh*/
+
+# Post-processing output images
+*.png
+*.gif

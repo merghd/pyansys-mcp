@@ -1,0 +1,16 @@
+[project]
+name = "pyansys-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "httpx>=0.28.1",
+    "markdownify>=1.2.2",
+    "mcp[cli]>=1.27.0",
+    "pandas>=2.3.3",
+    "pyansys>=2026.1.1",
+    "imageio>=2.0.0",
+    "pyvista>=0.40.0",
+]
