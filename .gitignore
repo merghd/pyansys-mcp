@@ -1,5 +1,5 @@
-# Agent instructions (auto-generated)
-.agent/
+# Claude Code local settings
+.claude/
 
 # Python
 __pycache__/

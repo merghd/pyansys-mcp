@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "packages": [
+    {
+      "namespace": "ansys.dyna.core",
+      "ecosystem": "pypi",
+      "package_name": "ansys-dyna-core",
+      "entry_file": "ansys.dyna.core.md",
+      "extended_docs": [
+        "ansys.dyna.core/deck.md",
+        "ansys.dyna.core/keywords.md",
+        "ansys.dyna.core/patterns.md"
+      ],
+      "mode": "copy",
+      "source": "C:\\Users\\rich\\pyansys-mcp\\.venv\\Lib\\site-packages\\ansys\\dyna\\core\\AGENT.md",
+      "installed_at": "2026-04-05T16:27:09.807623+00:00"
+    }
+  ]
+}
